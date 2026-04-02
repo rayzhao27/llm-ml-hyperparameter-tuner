@@ -1,0 +1,15 @@
+{
+  "trainer_path": "/content/bert4rec/training/trainer.py",
+  "project_dir": "/content/bert4rec",
+  "smoke_epochs": 30,
+  "max_trials": 5,
+  "extra_flags": "--num_workers 2 --data_dir /content/bert4rec/data --num_hidden_layers 4",
+  "baseline": {
+    "metric_name": "val_loss",
+    "metric_value": 5.8259,
+    "higher_is_better": false,
+    "epochs": 300,
+    "note": "num_hidden_layers=4, hidden_dropout_prob=0.2, attention_probs_dropout=0.2, best at epoch 83, HR@10=0.2901 NDCG@10=0.1624"
+  },
+  "python_bin": "/usr/bin/python3"
+}

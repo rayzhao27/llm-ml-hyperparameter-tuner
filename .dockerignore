@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.cursor
+frontend/node_modules
+frontend/.next
+*.md
+.env
+.env.local

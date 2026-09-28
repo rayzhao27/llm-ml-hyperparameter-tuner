@@ -1,0 +1,67 @@
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.log
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.turbo/
+*.tsbuildinfo
+
+# Training artifacts (PyTorch, TensorBoard, checkpoints)
+checkpoints/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+events.out.tfevents.*
+wandb/
+lightning_logs/
+mlruns/
+
+# Data dumps
+*.pkl
+*.pickle
+*.h5
+*.npy
+*.npz
+
+# Editor / local
+.cursor/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Docker / misc
+*.pid

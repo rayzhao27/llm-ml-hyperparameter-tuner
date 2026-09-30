@@ -526,3 +526,5 @@ Anthropic API (Claude) for the propose / recommend steps.
 
 Claude Code tool I/O pattern (FileReadTool / BashTool) as the shape for `read_tool` and `execute_tool`.
 
+
+

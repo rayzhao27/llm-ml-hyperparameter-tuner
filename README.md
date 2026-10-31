@@ -1,14 +1,14 @@
 <a name="readme-top"></a>
 
-Introducing Trimtab — The Next Evolution of This Project
+> **Introducing Trimtab — The Next Evolution of This Project**
+>
+> This repository contains the original open-source prototype that evolved into **Trimtab**, a more advanced AI-powered ML engineering assistant designed to automate and optimize machine learning experimentation and training workflows.
+>
+> **Explore Trimtab:** https://inferenceflowai.com/products/trimtab/
+>
+> **Developed by Inference Flow AI Studio:** https://inferenceflowai.com/
 
-This repository contains the original open-source prototype that evolved into Trimtab, a more advanced ML engineering assistant designed to streamline machine learning experimentation and optimization.
-
-Explore Trimtab: Official Product Page
-
-Developed by: Inference Flow AI Studio
-
-⸻
+---
 
 ## About The Project
 

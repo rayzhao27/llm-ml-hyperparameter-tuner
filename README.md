@@ -1,5 +1,15 @@
 <a name="readme-top"></a>
 
+Introducing Trimtab — The Next Evolution of This Project
+
+This repository contains the original open-source prototype that evolved into Trimtab, a more advanced ML engineering assistant designed to streamline machine learning experimentation and optimization.
+
+Explore Trimtab: Official Product Page
+
+Developed by: Inference Flow AI Studio
+
+⸻
+
 ## About The Project
 
 **LLM-Powered ML Training Agent: Propose → Smoke Test → Parse → Decide**
